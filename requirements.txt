@@ -1,0 +1,4 @@
+coppeliasim-zmqremoteapi-client
+numpy
+Pillow
+matplotlib
